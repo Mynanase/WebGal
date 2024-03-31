@@ -1,0 +1,26 @@
+[
+  {
+    "blur": 0,
+    "duration": 500
+  },
+  {
+    "blur": 2,
+    "duration": 500
+  },
+  {
+    "blur": 4,
+    "duration": 500
+  },
+  {
+    "blur": 6,
+    "duration": 500
+  },
+  {
+    "blur": 10,
+    "duration": 500
+  },
+  {
+    "blur": 16,
+    "duration": 5000
+  }
+]

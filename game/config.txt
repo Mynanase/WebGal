@@ -1,0 +1,6 @@
+Game_name:特教回忆簿;
+Game_key:0f87dstRg;
+Title_img:tjzx.png;
+Title_bgm:title.mp3 -vocal= å¤§åãªç´æ.mp3;
+Game_Logo:;
+Package_name:特教回忆簿;
